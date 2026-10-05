@@ -1,0 +1,20 @@
+fileFormatVersion: 2
+guid: b9b069d039b41b34ebbc70d68c01dd7c
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - cardPrefab: {fileID: 967670370798250688, guid: 448a65a4986297740a6be67268b3e58f, type: 3}
+  - gridParent: {instanceID: 0}
+  - panelMenu: {instanceID: 0}
+  - panelGame: {instanceID: 0}
+  - panelWin: {instanceID: 0}
+  - winTimeText: {instanceID: 0}
+  - timerText: {instanceID: 0}
+  - winErrorsText: {instanceID: 0}
+  - errorsText: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,29 @@
+<dependencies>
+  <unityversion>9.1.1</unityversion>
+  <androidPackages>
+    <androidPackage spec="com.unity3d.ads-mediation:adquality-sdk:9.1.1">
+    </androidPackage>
+  </androidPackages>
+
+  <androidPackages>
+    <androidPackage spec="com.unity3d.ads-mediation:adquality-unity-sdk-bridge:9.1.1">
+    </androidPackage>
+  </androidPackages>
+
+  <iosPods>
+    <iosPod name="IronSourceAdQualitySDK" version="9.1.1">
+      <sources>
+        <source>https://github.com/CocoaPods/Specs</source>
+      </sources>
+    </iosPod>
+  </iosPods>
+
+    <iosPods>
+    <iosPod name="IronSourceAdQualityUnityBridge" version="9.1.1">
+      <sources>
+        <source>https://github.com/CocoaPods/Specs</source>
+      </sources>
+    </iosPod>
+  </iosPods>
+
+</dependencies>
